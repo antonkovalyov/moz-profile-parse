@@ -1,7 +1,7 @@
 Utility to parse SPS profile data from Firefox
 ==============================================
 
-[![build status](https://secure.travis-ci.org/antonkovalyov/moz-profile-parser.png)](http://travis-ci.org/antonkovalyov/moz-profile-parser)
+[![Build Status](https://travis-ci.org/antonkovalyov/moz-profile-parse.png?branch=master)](https://travis-ci.org/antonkovalyov/moz-profile-parse)
 
 A library to transform raw data received from Firefox SPS profiler into
 something more structured. This library is similar to parserWorker.js
