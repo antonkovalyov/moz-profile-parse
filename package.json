@@ -1,0 +1,27 @@
+{
+  "name": "moz-profile-parser",
+  "version": "0.0.1",
+  "description": "A utility to transform raw SPS output to a more structured format",
+  "main": "parse.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antonkovalyov/moz-profile-parse.git"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.8.1"
+  },  
+  "keywords": [
+    "mozilla",
+    "firefox",
+    "profiler"
+  ],
+  "author": "Anton Kovalyov <anton@kovalyov.net>",
+  "readmeFilename": "README.md",
+  "license": "MPL",
+  "bugs": {
+    "url": "https://github.com/antonkovalyov/moz-profile-parse/issues"
+  }
+}
